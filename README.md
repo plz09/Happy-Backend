@@ -3,7 +3,7 @@
 
 ### :computer: Project
 Happy is an application inspired by Children's Day to connect people to orphanages close to their region and make an appointment for a visit.
-This app was developed in the NLW3 from [Rocketseat](https://rocketseat.com.br/).
+This app was developed in the couse NLW3 from [Rocketseat](https://rocketseat.com.br/).
 
 ![imagem happy](https://github.com/plz09/Happy-Backend/blob/master/happy.png)
 
